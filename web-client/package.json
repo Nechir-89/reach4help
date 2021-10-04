@@ -7,7 +7,7 @@
     "@datadog/browser-logs": "^1.12.5",
     "@datadog/browser-rum": "^1.12.5",
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
+    "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^7.1.2",
     "@types/google-map-react": "^1.1.5",
     "@types/googlemaps": "^3.39.4",
