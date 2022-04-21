@@ -8,7 +8,7 @@ jobs:
   sync-issues-with-zenhub:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v3.0.2
     - name: Sync
       uses: ./.github/zenhub-issue-sync
       env:
