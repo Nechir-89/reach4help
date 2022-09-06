@@ -49,7 +49,7 @@
     "moment": "^2.24.0",
     "node-fetch": "^2.6.1",
     "twilio": "^3.42.2",
-    "uuid": "^7.0.3"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@firebase/testing": "^0.18.2",
